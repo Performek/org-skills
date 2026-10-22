@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "org-skills": {
+      "source": { "source": "github", "repo": "Performek/org-skills" }
+    }
+  },
+  "enabledPlugins": {
+    "asd-ste100@org-skills": true
+  }
+}
